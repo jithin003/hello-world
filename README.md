@@ -1,2 +1,4 @@
 # hello-world
-This is just repository
+Hi,
+This is jithin
+Passionate about web development
